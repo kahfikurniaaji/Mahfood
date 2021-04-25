@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897896746595",
+    "project_id": "mahfood-e59b2",
+    "storage_bucket": "mahfood-e59b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897896746595:android:c7f8da22cae44bc7267256",
+        "android_client_info": {
+          "package_name": "com.example.mahfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897896746595-lfm3sffdrjjsbb87q38s2ddh5f3hlinl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKLyhW_CkvoV0ga6dzKVOdD9MXv51_T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897896746595-lfm3sffdrjjsbb87q38s2ddh5f3hlinl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
